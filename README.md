@@ -13,7 +13,7 @@ The algorithm may informally be described as performing the following steps:
 1. To execute the code make sure you have installed OpenGL (freeglut or whatever) and also the necessary Compiler.
 2. Open the directory where the code bford.cpp is stored and execute the following commands:
 ```
- $ gcc bford.cpp -lGLU -lGL -lglut -lm -Wno-write-strings
+ $ gcc cgv1.cpp -lGLU -lGL -lglut -lm -Wno-write-strings
  $ ./a.out 
 ```
 3. Follow the procedure as shown in the screenshots available in the report enclosed
